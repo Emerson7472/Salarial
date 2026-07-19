@@ -1,0 +1,5 @@
+C:\Users\CarlosB\source\repos\Salarial\obj\Debug\net10.0\Salarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarlosB\source\repos\Salarial\obj\Debug\net10.0\Salarial.AssemblyInfoInputs.cache
+C:\Users\CarlosB\source\repos\Salarial\obj\Debug\net10.0\Salarial.AssemblyInfo.cs
+C:\Users\CarlosB\source\repos\Salarial\obj\Debug\net10.0\Salarial.csproj.CoreCompileInputs.cache
+C:\Users\CarlosB\source\repos\Salarial\obj\Debug\net10.0\Salarial.sourcelink.json
